@@ -65,3 +65,6 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [CodingBat - Python Algos](https://codingbat.com/python)
 - Book: "A Cool Brisk Walk Through Discrete Mathematics" by Stephen Davies
 - [Pramp](https://www.pramp.com/#/) <-Live Interview Practice
+
+## Other tips:
+= [UX/UI from Narciso](https://github.com/narcisolobo/web-fun-jan-2024/tree/main/08-portfolio)
