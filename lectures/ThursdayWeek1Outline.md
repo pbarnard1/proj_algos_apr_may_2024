@@ -16,4 +16,6 @@
 - Please fill out the Group Projects tab so that I can better gauge how to form groups.  Groups will be formed at the end of the day on Thursday, April 25!
 
 ## Lecture outline
-- Narciso's choice
+- From Narciso:
+    - UX/UI and portfolio tips
+- Link to Narciso's UX/UI and portfolio tips: https://github.com/narcisolobo/web-fun-jan-2024/tree/main/08-portfolio
