@@ -65,6 +65,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [CodingBat - Java Algos](https://codingbat.com/java)
 - [CodingBat - Python Algos](https://codingbat.com/python)
 - Book: "A Cool Brisk Walk Through Discrete Mathematics" by Stephen Davies
+- Book: "Grokking Algorithms, Second Edition"
 - [Pramp](https://www.pramp.com/#/) <-Live Interview Practice
 
 ## Other tips:
