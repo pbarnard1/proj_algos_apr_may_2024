@@ -30,5 +30,4 @@
         - Parent vs. child vs. sibling nodes
         - Balanced (full) trees
     - Adding a node
-    - Counting the number of nodes (size) in the tree (likely tomorrow)
     - Definitely tomorrow: three different ways to traverse a tree

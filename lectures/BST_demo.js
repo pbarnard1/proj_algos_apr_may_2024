@@ -42,6 +42,16 @@ class BST {
             }
         }
     }
+
+    // Height of the tree - the number of levels in the tree, including the level with the root
+    height(runner = this.root) { // Optional parameter specifying which node we're at right now, starting at the root by default
+        if (runner == null) { // Stop the recursion if we hit a dead end (no node)
+            return 0; // No levels to count if we hit a dead end
+        }
+        let leftSubtreeHeight = this.height(runner.left); // Get the height of the subtree to the left of the current node (runner) recursively
+        let rightSubtreeHeight = this.height(runner.right); // Get the height of the subtree to the right of the current node (runner)
+        return Math.max(leftSubtreeHeight, rightSubtreeHeight) + 1; // Pick the bigger height between each tree, then add 1 to count the CURRENT level
+    }
 }
 
 let myBST = new BST(); // Sample binary search tree
@@ -53,3 +63,7 @@ myBST.addNode(20);
 console.log(myBST);
 console.log(myBST.root.right);
 console.log(myBST.root.right.left);
+// Testing with heights
+console.log(myBST.height());
+myBST.addNode(5);
+console.log(myBST.height());
