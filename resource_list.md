@@ -69,4 +69,7 @@ These links were added by you, the students, and Adrian!!  Disclaimer: no compan
 - [Pramp](https://www.pramp.com/#/) <-Live Interview Practice
 
 ## Other tips:
-= [UX/UI from Narciso](https://github.com/narcisolobo/web-fun-jan-2024/tree/main/08-portfolio)
+- [UX/UI from Narciso](https://github.com/narcisolobo/web-fun-jan-2024/tree/main/08-portfolio)
+
+## Other books:
+- "Web Security for Developers: Real Threats, Practical Defense" (recommended by Aaron, one of the instructors)
